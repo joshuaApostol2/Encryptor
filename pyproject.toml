@@ -2,7 +2,7 @@
 name = "python-template"
 version = "0.1.0"
 description = ""
-authors = ["joshua Aposgol <joshuaapostol909@gmail.com>"]
+authors = ["joshua Apostol <joshuaapostol909@gmail.com>"]
 requires-python = ">=3.11"
 dependencies = [
     "crypto>=1.4.1",
